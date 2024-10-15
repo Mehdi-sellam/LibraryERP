@@ -1,6 +1,8 @@
-# Insight Library Management System Documentation
+# Enterprise Resource Planning for a Library called Insight Library Documentation
 
-This project is a web applicatin ERP system, developed for managing stuff, customers and stock within an IPTV online store.
+## Documentation
+
+This project is a Desktop applicatin ERP system, developed for managing **Books**, **Clients**, and **Borrowing Orders** within an Library Management System.
 
 ## Technologies Used:
 - **C#**
@@ -135,3 +137,4 @@ The Insight Library system primarily revolves around one form for the work inter
 - In the **Borrowing Orders** section, input details of the borrowing transaction, including **Book ID**, **Client ID**, and **Borrow Date**, and click **Add** to save the order.
 
 
+#### [Back to Contents](#Contents)
