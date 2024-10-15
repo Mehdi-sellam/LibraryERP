@@ -2,7 +2,7 @@
 
 ## Documentation
 
-This project is a Desktop applicatin ERP system, developed for managing **Books**, **Clients**, and **Borrowing Orders** within an Library Management System.
+This project is a Desktop applicatin ERP system, developed for managing **Books**, **Clients**, and **Borrowing Orders** within an Library Management Solution.
 
 ## Technologies Used:
 - **C#**
