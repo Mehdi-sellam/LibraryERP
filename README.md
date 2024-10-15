@@ -1,5 +1,7 @@
 # Insight Library Management System Documentation
 
+This project is a web applicatin ERP system, developed for managing stuff, customers and stock within an IPTV online store.
+
 ## Technologies Used:
 - **C#**
 - **.NET**
@@ -106,7 +108,7 @@ The Insight Library system primarily revolves around one form for the work inter
 
 
 
-## Usage Guide
+## Usage
 
 ### Launching the System:
 - After installation, launch the **Insight Library Management System** from your desktop or Start menu.
