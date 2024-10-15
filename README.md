@@ -1,4 +1,4 @@
-# Enterprise Resource Planning for a Library called Insight Library Documentation
+# Enterprise Resource Planning for a Library called Insight Library
 
 ## Documentation
 
