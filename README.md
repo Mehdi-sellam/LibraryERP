@@ -9,8 +9,8 @@ This project is a Desktop applicatin ERP system, developed for managing **Books*
 - **.NET**
 - **Forms**
 - **MS Visual studio Internal Database**
-- **Unit Testing**
 - **Microsoft Visual Studio 2022** (Development environment)
+- **Unit Testing**
 
 ### Contents:
 1. [Introduction](#1-Introduction)
